@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vinayak Arya</h1>
-<h3 align="center">I’m currently working on Flutter and Golang</h3>
+<h3 align="center">I’m currently working on Javascript, Typescript and Flutter</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
