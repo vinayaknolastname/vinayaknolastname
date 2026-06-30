@@ -1,133 +1,185 @@
-```md
-<h1 align="center">Hi 👋, I'm Vinayak Arya</h1>
+````md
+<div align="center">
 
-<h3 align="center">
-AI Engineer | Voice AI | Agentic Systems | Python & TypeScript
-</h3>
+# Hi 👋 I'm Vinayak Arya
 
-<p align="center">
-Building real-time conversational AI systems that scale to thousands of concurrent voice interactions.
+### 🚀 AI Engineer • Voice AI • Agentic Systems • Backend Engineering
+
+Building **low-latency, production-grade conversational AI** that powers real-time voice experiences.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vinayak_Arya-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vinayak-a-720389270/)
+[![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
+[![TypeScript](https://img.shields.io/badge/TypeScript-Advanced-3178C6?style=for-the-badge&logo=typescript&logoColor=white)]()
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+```python
+class VinayakArya:
+
+    role = "AI Engineer"
+
+    experience = "2.5+ Years"
+
+    focus = [
+        "Voice AI",
+        "Agentic Systems",
+        "Real-Time AI",
+        "Backend Engineering"
+    ]
+
+    currently_building = [
+        "Production Voice Agents",
+        "LLM Applications",
+        "AI Calling Infrastructure"
+    ]
+
+    loves = [
+        "Low Latency",
+        "Concurrency",
+        "Distributed Systems",
+        "Python"
+    ]
+```
+
+---
+
+## 🚀 What I Build
+
+🎙️ **Voice AI Applications**
+
+- AI Phone Agents
+- Conversational AI
+- AI Call Automation
+- Speech Pipelines
+
+🤖 **LLM Systems**
+
+- Agentic AI
+- Multi-Agent Workflows
+- Tool Calling
+- Context Management
+- RAG Systems
+
+⚡ **Real-Time Infrastructure**
+
+- WebSockets
+- Audio Streaming
+- Async Python
+- Thread Offloading
+- High-Concurrency Systems
+- Event Loop Optimization
+
+---
+
+## ⚙️ Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,typescript,javascript,go,bash" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,postgres,redis,docker,linux,nginx,git,github" />
+</p>
+
+### AI & Voice
+
+<p>
+
+🧠 OpenAI • Deepgram • ElevenLabs • Retell AI • LangGraph • LangChain • MCP • Whisper
+
 </p>
 
 ---
 
-## 🚀 About Me
+## 💼 Currently Working On
 
-- 💼 AI Engineer with **2.5+ years of experience** building production-grade AI applications.
-- 🎙️ Specialized in **Voice AI**, **Conversational AI**, and **Agentic Systems**.
-- 🤖 Experienced in designing and deploying **real-time AI voice agents** for phone calls at scale.
-- 🧠 Strong background in **LLMs**, **tool calling**, **multi-agent workflows**, and **context orchestration**.
-- ⚡ Passionate about low-latency systems, asynchronous programming, and distributed architectures.
-- 🐍 Primary languages: **Python** and **TypeScript**.
-
----
-
-## 💼 What I Work On
-
-- 📞 Real-time Voice AI platforms
-- 🤖 LLM-powered conversational agents
-- 🧩 Agentic workflows & autonomous AI systems
-- 🎧 Speech-to-Text (STT)
-- 🔊 Text-to-Speech (TTS)
-- 🧠 Prompt engineering & conversation design
-- ⚙️ WebSockets & real-time streaming
-- 🚀 High-concurrency backend systems
-- 🔄 Async event loops & multithreading
-- 📦 Queue-based architectures (Janus, asyncio)
-- 🌐 REST APIs & WebSocket APIs
-- ☁️ Production AI deployments
+- 🎙️ Production-scale Voice AI
+- 🤖 AI Calling Infrastructure
+- ⚡ Ultra Low-Latency Streaming
+- 🧠 Agentic AI Systems
+- 🔄 Async Python Architectures
 
 ---
 
-## 🔥 Experience
+## 📊 GitHub Stats
 
-Currently building **Voice AI infrastructure** capable of handling large-scale phone conversations with minimal latency.
+<p align="center">
 
-I've worked extensively with:
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-- Real-time audio streaming
-- Telephony integrations
-- AI call automation
-- Concurrent event loops
-- Thread offloading
-- Async Python
-- Janus queues
-- Streaming LLM responses
-- Streaming TTS
-- Speech recognition pipelines
-- Context management
-- Tool calling
-- Function execution
-- Multi-agent orchestration
-- Production monitoring & logging
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+## 🏆 Areas of Expertise
 
-### Languages
+<table>
+<tr>
+<td>🎙️ Voice AI</td>
+<td>🤖 LLMs</td>
+<td>🧠 Agentic AI</td>
+</tr>
 
-- Python
-- TypeScript
-- JavaScript
-- Go
+<tr>
+<td>⚡ Async Python</td>
+<td>🔌 WebSockets</td>
+<td>📞 AI Calling</td>
+</tr>
 
-### AI & Voice
+<tr>
+<td>🚀 FastAPI</td>
+<td>🧵 Concurrency</td>
+<td>📦 Distributed Systems</td>
+</tr>
 
-- OpenAI
-- Deepgram
-- ElevenLabs
-- Retell AI
-- Whisper
-- LangGraph
-- LangChain
-- MCP
-- Vector Databases
-- RAG
-
-### Backend
-
-- FastAPI
-- Node.js
-- Express
-- WebSockets
-- asyncio
-- aiohttp
-- Redis
-- PostgreSQL
-
-### Cloud & DevOps
-
-- Docker
-- GitHub Actions
-- Linux
-- Nginx
-- Loki
-- Promtail
+</table>
 
 ---
 
-## 🌱 Currently Learning
+## 🌱 Currently Exploring
 
-- Advanced Agentic AI Architectures
 - Multi-Agent Systems
-- MCP Ecosystem
-- Distributed AI Infrastructure
-- AI Memory Systems
+- AI Infrastructure
+- Distributed AI
+- Model Context Protocol (MCP)
+- AI Memory
+- Realtime LLMs
 
 ---
 
 ## 📫 Connect With Me
 
-<p align="left">
-<a href="https://www.linkedin.com/in/vinayak-a-720389270/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+<p align="center">
+
+<a href="https://www.linkedin.com/in/vinayak-a-720389270">
+<img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
+
 </p>
 
 ---
 
-## ⚡ Fun Fact
+<div align="center">
 
-I enjoy solving challenging problems around **low-latency AI systems**, **real-time audio processing**, and **building AI agents that interact naturally over voice**.
-```
+### 💭 *"Building AI that can hear, think, and speak in real time."*
+
+⭐️ Thanks for visiting my profile!
+
+</div>
+````
