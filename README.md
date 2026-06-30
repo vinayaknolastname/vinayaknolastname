@@ -2,11 +2,13 @@
 
 # Hi, I'm Vinayak Arya 👋
 
-### AI Engineer • Voice AI • Agentic Systems • Backend Engineering
+### Backend Engineer • Voice AI • Agentic Systems • Gen AI
 
-Building **low-latency, production-grade conversational AI** that powers real-time voice experiences.
+Hardcore backend engineer specializing in **multi-threading, concurrency, event loops, and real-time systems** — now building production-grade Gen AI and conversational AI on top of that foundation.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Vinayak_Arya-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vinayak-a-720389270/)
+[![Email](https://img.shields.io/badge/Email-vinayak702010%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vinayak702010@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-9918810901-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/919918810901)
 [![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
 [![TypeScript](https://img.shields.io/badge/TypeScript-Advanced-3178C6?style=for-the-badge&logo=typescript&logoColor=white)]()
 
@@ -18,14 +20,15 @@ Building **low-latency, production-grade conversational AI** that powers real-ti
 
 ```python
 class VinayakArya:
-    role = "AI Engineer"
+    role = "Backend Engineer (AI-Focused)"
     experience = "2.5+ Years"
 
     focus = [
+        "Backend Engineering",
+        "Real-Time Systems",
         "Voice AI",
         "Agentic Systems",
-        "Real-Time AI",
-        "Backend Engineering",
+        "Gen AI",
     ]
 
     currently_building = [
@@ -66,12 +69,13 @@ class VinayakArya:
 
 ## 🚀 What I Build
 
-| 🎙️ Voice AI | 🤖 LLM Systems | ⚡ Real-Time Infrastructure |
+| ⚡ Real-Time Infrastructure | 🎙️ Voice AI | 🤖 Gen AI / LLM Systems |
 |---|---|---|
-| AI Phone Agents | Agentic AI | WebSockets & Audio Streaming |
-| Conversational AI | Multi-Agent Workflows | Async Python |
-| AI Call Automation | Tool Calling & Context Mgmt | Thread Offloading |
-| Speech Pipelines | RAG Systems | High-Concurrency Systems |
+| WebSockets & Audio Streaming | AI Phone Agents | Agentic AI |
+| Async Python & Event Loops | Conversational AI | Multi-Agent Workflows |
+| Multi-Threading & Concurrency | AI Call Automation | Tool Calling & Context Mgmt |
+| Thread/Task Offloading | Speech Pipelines | RAG Systems |
+| Janus Queue & WebSockets | Real-Time Audio Pipelines | Context Management |
 
 ---
 
@@ -107,6 +111,9 @@ class VinayakArya:
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
+
+📧 **Email:** [vinayak702010@gmail.com](mailto:vinayak702010@gmail.com)
+📱 **WhatsApp:** [+91 9918810901](https://wa.me/919918810901)
 
 ---
 
